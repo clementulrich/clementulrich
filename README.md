@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Welcome!
 
-<!--
-**clementulrich/clementulrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Aspiring **project manager** and computer science student at Telecom Saint-Etienne, passionate about organizing collaborative initiatives and driving successful outcomes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗂️ What I Do
+
+- **Project Management:**  
+  Experience leading academic tech teams, planning milestones, and ensuring project delivery.
+
+- **Databases:**  
+  Skilled in **SQL and NoSQL** database modeling, querying, and integration (relational & document-based).
+
+- **APIs:**  
+  Developing and connecting RESTful APIs for robust data exchange across services.
+
+- **Cloud and AWS:**  
+  Launching and maintaining projects using AWS services (EC2, S3, more).
+
+- **Python:**  
+  Data analysis, automation, scripting, and backend utilities with Python.
+
+- **TypeScript & Front-end:**  
+  Building interactive web apps (Angular, HTML) and supporting full-stack workflows.
+
+---
+
+## 📂 Explore My Projects
+This profile showcases hands-on solutions in:
+- Project management challenges
+- Advanced database systems (SQL/NoSQL)
+- API development and integration
+- Cloud deployment (AWS)
+- Data science with Python
+- Modern web interfaces with TypeScript
+
+---
+
+> 💬 *Feel free to connect or explore my repositories for concrete examples of teamwork, technical problem-solving, and innovation!*
