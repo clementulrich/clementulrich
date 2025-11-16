@@ -1,6 +1,7 @@
 # 👋 Welcome!
 
 ## 🚀 About Me
+
 Aspiring **project manager** and computer science student at Telecom Saint-Etienne, passionate about organizing collaborative initiatives and driving successful outcomes.
 
 ---
@@ -8,26 +9,27 @@ Aspiring **project manager** and computer science student at Telecom Saint-Etien
 ## 🗂️ What I Do
 
 - **Project Management:**  
-  Experience leading academic tech teams, planning milestones, and ensuring project delivery.
+  Participating in and coordinating group projects, applying methods to plan milestones and collaborate effectively in academic settings.
 
 - **Databases:**  
-  Skilled in **SQL and NoSQL** database modeling, querying, and integration (relational & document-based).
+  Learning and practicing **SQL and NoSQL** database design, querying, and integration through coursework and hands-on assignments.
 
 - **APIs:**  
-  Developing and connecting RESTful APIs for robust data exchange across services.
+  Building and experimenting with RESTful APIs as part of academic projects.
 
 - **Cloud and AWS:**  
-  Launching and maintaining projects using AWS services (EC2, S3, more).
+  Exploring AWS by deploying and testing applications (EC2, S3, etc.) as part of class projects.
 
 - **Python:**  
-  Data analysis, automation, scripting, and backend utilities with Python.
+  Using Python for data analysis, automation, and scripting in labs and coursework.
 
 - **TypeScript & Front-end:**  
-  Building interactive web apps (Angular, HTML) and supporting full-stack workflows.
+  Developing interactive front-ends (Angular, HTML) and learning full-stack workflows through academical exercises.
 
 ---
 
 ## 📂 Explore My Projects
+
 This profile showcases hands-on solutions in:
 - Project management challenges
 - Advanced database systems (SQL/NoSQL)
@@ -38,4 +40,4 @@ This profile showcases hands-on solutions in:
 
 ---
 
-> 💬 *Feel free to connect or explore my repositories for concrete examples of teamwork, technical problem-solving, and innovation!*
+> 💬 *Feel free to connect or explore my repositories for concrete examples of teamwork, technical problem-solving, and academic challenges!*
